@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Animasi Trasisi</title>
+
+        <style>
+            .box{
+                width: 40%;
+                height: 100px;
+                background: orange;
+                border: 2px solid grey;
+
+                -webkit-transition: width 1s ease-in-out;
+                -o-transition: width 1s ease-in-out;
+                -moz-transition: width 1s ease-in-out;
+                transition: width 1s ease-in-out;
+            }
+
+            @media (orientation: landscape){
+                .box{
+                    width: 100%;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h3>Trasisi CSS3</h3>
+
+        <div class="box"></div>
+
+        <p>
+            Ubah landscape ke potrait dan sebaliknya untuk melihat efek transisi
+        </p>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Media Query</title>
+
+        <style>
+            .smartphone{
+                display: none;
+            }
+
+            @media only screen and (max-width: 375px){
+                body{
+                    background-color: yellow;
+                }
+                .smartphone{
+                    display: block;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h3>Menggunakan Media Query</h3>
+
+        <div class="smartphone">
+            <h2>Tampilan pada ukuran smartphone</h2>
+        </div>
+    </body>
+</html>

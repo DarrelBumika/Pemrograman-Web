@@ -74,7 +74,7 @@
                                         echo "Password required.";
                                     } else {
                                         if(!is_string($username) && !is_string($password)){
-                                            echo is_string($username);
+                                            echo "Username and password must be string.";
                                         } else if (!is_string($username)) {
                                             echo "Username must be string.";
                                         } else if (!is_string($password)) {

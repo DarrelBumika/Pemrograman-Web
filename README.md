@@ -1,37 +1,37 @@
-# Pemrograman Web
+# Web Programming
 
-Repository untuk mata kuliah Pemrograman Web.
+Repository for Web Programming course.
 
-**Nama:** Ashilpa Darrel Bumika  
-**NIM:** 22537141019
+**Name:** Ashilpa Darrel Bumika  
+**Student ID:** 22537141019
 
-## Struktur Repository
+## Repository Structure
 
-Repository ini berisi materi pembelajaran dan laporan praktikum yang terorganisir dalam modul-modul:
+This repository contains learning materials and practical reports organized into modules:
 
-### Modul Pembelajaran
-- **Modul 1** - Pengenalan HTML (Heading, Paragraf, Format Teks, List, Gambar)
-- **Modul 2** - HTML Lanjutan (Form, Link, Table)
-- **Modul 3** - CSS Dasar
-- **Modul 4** - CSS Lanjutan
-- **Modul 5** - JavaScript Dasar
-- **Modul 6** - JavaScript Lanjutan
-- **Modul 7** - DOM Manipulation
-- **Modul 8** - AJAX dan API
-- **Modul 9** - Framework Web
-- **Modul 10** - PHP Dasar
-- **Modul 11** - PHP dan Database
-- **Modul 12** - Proyek Akhir
+### Learning Modules
+- **Module 1** - Introduction to HTML (Headings, Paragraphs, Text Formatting, Lists, Images)
+- **Module 2** - Advanced HTML (Forms, Links, Tables)
+- **Module 3** - CSS Basics
+- **Module 4** - Advanced CSS
+- **Module 5** - JavaScript Basics
+- **Module 6** - Advanced JavaScript
+- **Module 7** - DOM Manipulation
+- **Module 8** - AJAX and API
+- **Module 9** - Web Frameworks
+- **Module 10** - PHP Basics
+- **Module 11** - PHP and Database
+- **Module 12** - Final Project
 
-### Laporan
-Folder `Laporan` berisi dokumentasi lengkap praktikum dalam format PDF dan DOCX untuk setiap modul.
+### Reports
+The `Laporan` folder contains complete practical documentation in PDF and DOCX formats for each module.
 
-## Cara Menggunakan
+## How to Use
 
-1. Clone repository ini
-2. Buka file HTML di browser untuk melihat hasil
-3. Setiap modul berisi contoh kode dan studi kasus
+1. Clone this repository
+2. Open HTML files in a browser to view the results
+3. Each module contains sample code and case studies
 
-## Lisensi
+## License
 
-Repository ini dibuat untuk keperluan pembelajaran.
+This repository is created for educational purposes.
